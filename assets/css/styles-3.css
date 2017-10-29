@@ -68,6 +68,9 @@ p {
 .sidebar-wrapper a {
   color: #fff;
 }
+.sidebar-wrapper .btn-hire-me {
+  background: #5BB66F;
+}
 .sidebar-wrapper .profile-container {
   padding: 30px;
   background: rgba(0, 0, 0, 0.2);
